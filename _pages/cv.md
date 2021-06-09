@@ -18,7 +18,10 @@ Education
 Publications
 ======
 
-
+- a
+- b
+- c
+- d
 
 Honors & Awards
 ======
