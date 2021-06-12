@@ -33,7 +33,7 @@ figcaption {
 <figure>
   <img
   src="http://laststriker11.github.io/files/EJTIR-MobilTUM2019_fig1.png"
-  alt="Figure 1"  style="width:50%">
+  alt="Figure 1"  style="width:80%">
   <figcaption>Figure 1: Cells structure of a road segment.</figcaption>
 </figure>
 
