@@ -14,35 +14,35 @@ Several empirical analyses using the data collected from multi-lane freeways wit
 <figure>
   <img
   src="http://laststriker11.github.io/files/EJTIR-MobilTUM2019_fig1.png"
-  alt="Figure 1" width="500">
+  alt="Figure 1" width="300">
   <figcaption>Figure 1: Cells structure of a road segment.</figcaption>
 </figure>
 
 <figure>
   <img
   src="http://laststriker11.github.io/files/EJTIR-MobilTUM2019_fig2.png"
-  alt="Figure 2" width="500">
+  alt="Figure 2" width="300">
   <figcaption>Figure 2: A segment and its attached information.</figcaption>
 </figure>
 
 <figure>
   <img
   src="http://laststriker11.github.io/files/EJTIR-MobilTUM2019_fig3.png"
-  alt="Figure 4" width="500">
+  alt="Figure 4" width="400">
   <figcaption>Figure 4: MAE curves of the new system and the old system in segment {0.2 miles, 2 lanes}.</figcaption>
 </figure>
 
 <figure>
   <img
   src="http://laststriker11.github.io/files/EJTIR-MobilTUM2019_fig4.png"
-  alt="Figure 12" width="500">
+  alt="Figure 12" width="300">
   <figcaption>Figure 12: 0.2-mile series and 0.4-mile series.</figcaption>
 </figure>
 
 <figure>
   <img
   src="http://laststriker11.github.io/files/EJTIR-MobilTUM2019_fig5.png"
-  alt="Figure 13" width="500">
+  alt="Figure 13" width="300">
   <figcaption>Figure 13: 3-lane series and 5-lane series.</figcaption>
 </figure>
 
