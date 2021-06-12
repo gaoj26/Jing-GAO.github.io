@@ -11,4 +11,4 @@ Like other transportation data, lane-mean speeds are also best modeled by a syst
 
 Several empirical analyses using the data collected from multi-lane freeways with different lengths and different numbers of lanes are conducted in order to observe the performance of the equations system in different conditions. The study further compares the prediction accuracy between the underlying approach and the model established by Shankar and Mannering (1998) for assessing the impact of introducing downstream speeds within the model. The findings show that more precise results are obtained generally after downstream speeds are included, emphasizing the improvements and superiority of this approach.
 
-![Figure 1: Cells structure of a road segment.](E:\laststriker11.github.io\_publications\2020-11-13-EJTIR-MobilTUM2019_fig1.png)
+![Figure 1: Cells structure of a road segment.](http://laststriker11.github.io/_publications/2020-11-13-EJTIR-MobilTUM2019_fig1.png)
