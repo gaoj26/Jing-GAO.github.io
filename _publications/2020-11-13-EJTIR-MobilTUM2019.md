@@ -40,28 +40,28 @@ figcaption {
 <figure>
   <img
   src="http://laststriker11.github.io/files/EJTIR-MobilTUM2019_fig2.png"
-  alt="Figure 2" style="width:100%">
+  alt="Figure 2" style="width:80%">
   <figcaption>Figure 2: A segment and its attached information.</figcaption>
 </figure>
 
 <figure>
   <img
   src="http://laststriker11.github.io/files/EJTIR-MobilTUM2019_fig3.png"
-  alt="Figure 4" width="400">
+  alt="Figure 4" style="width:80%">
   <figcaption>Figure 4: MAE curves of the new system and the old system in segment {0.2 miles, 2 lanes}.</figcaption>
 </figure>
 
 <figure>
   <img
   src="http://laststriker11.github.io/files/EJTIR-MobilTUM2019_fig4.png"
-  alt="Figure 12" width="300">
+  alt="Figure 12" style="width:80%">
   <figcaption>Figure 12: 0.2-mile series and 0.4-mile series.</figcaption>
 </figure>
 
 <figure>
   <img
   src="http://laststriker11.github.io/files/EJTIR-MobilTUM2019_fig5.png"
-  alt="Figure 13" width="300">
+  alt="Figure 13" style="width:80%">
   <figcaption>Figure 13: 3-lane series and 5-lane series.</figcaption>
 </figure>
 
