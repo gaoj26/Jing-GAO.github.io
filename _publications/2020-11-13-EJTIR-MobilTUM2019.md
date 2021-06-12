@@ -20,8 +20,8 @@ figure {
   margin: auto;
 }
 figcaption {
-  background-color: black;
-  color: white;
+  background-color: white;
+  color: black;
   font-style: italic;
   padding: 2px;
   text-align: center;
@@ -30,12 +30,10 @@ figcaption {
 </head>
 <body>
 
-
-
 <figure>
   <img
   src="http://laststriker11.github.io/files/EJTIR-MobilTUM2019_fig1.png"
-  alt="Figure 1"  style="width:20%">
+  alt="Figure 1"  style="width:50%">
   <figcaption>Figure 1: Cells structure of a road segment.</figcaption>
 </figure>
 
