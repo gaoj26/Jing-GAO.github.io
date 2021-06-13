@@ -19,7 +19,7 @@ author_profile: true
   {% for post in site.publications %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
-      <a href="{{pst.paperurl}}">Download</a>
+      <a href="{{post.paperurl}}">[Download]</a>
     </li>
   {% endfor %}
 </ol>
