@@ -15,8 +15,27 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+
+
+<head>
+<style>
+a:visited {
+  color: grey;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+</style>
+</head>
+
+<body>
+
 <ol>
-  {% for post in site.publications %}
+  {% for post in site.publications reversed %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
       <a href="{{post.paperurl}}">[Download]</a>
@@ -24,3 +43,4 @@ author_profile: true
   {% endfor %}
 </ol>
 
+</body>
