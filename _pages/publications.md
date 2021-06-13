@@ -46,5 +46,13 @@ a:hover {
 </ol>
 
 <h2>Conference</h2>
+<ol>
+  {% for post in site.conference reversed %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      <a href="{{post.paperurl}}">[Download]</a>
+    </li>
+  {% endfor %}
+</ol>
 
 </body>
