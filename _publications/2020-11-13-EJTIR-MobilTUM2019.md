@@ -1,5 +1,5 @@
 ---
-title: "A structural equations approach for modeling the endogeneity of lane-mean speeds considering the downstream speeds"
+title: "Lu, Q. L. (2020). A structural equations approach for modeling the endogeneity of lane-mean speeds considering the downstream speeds. European Journal of Transport and Infrastructure Research, 20(4), 252-265."
 collection: publications
 date: 2020-11-13
 excerpt: 'Like other transportation data, lane-mean speeds are also best modeled by a system of structural equations. Several studies omit...'

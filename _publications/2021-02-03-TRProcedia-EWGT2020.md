@@ -1,5 +1,5 @@
 ---
-title: "Exploring the influence of automated driving styles on network efficiency"
+title: "Lu, Q. L., Qurashi, M., Varesanovic, D., Sodnik, J., & Antoniou, C. (2021). Exploring the influence of automated driving styles on network efficiency. Transportation research procedia, 52, 380-387."
 collection: publications
 date: 2021-02-03
 excerpt: 'Automated vehicle technology can be beneficial for many aspects of transport, especially, improving traffic flow stability and efficiency. However, the influence of...'
