@@ -5,17 +5,17 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
+<!--{% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+{% endif %} -->
+
+
+
+<!--{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}-->
 
 {% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-
-
 
 <head>
 <style>
@@ -34,6 +34,8 @@ a:hover {
 
 <body>
 
+<h2>Journal</h2>
+
 <ol>
   {% for post in site.publications reversed %}
     <li>
@@ -42,5 +44,7 @@ a:hover {
     </li>
   {% endfor %}
 </ol>
+
+<h2>Conference</h2>
 
 </body>
