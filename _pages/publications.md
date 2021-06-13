@@ -15,3 +15,10 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+<ul>
+  {% for post in site.publications %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
