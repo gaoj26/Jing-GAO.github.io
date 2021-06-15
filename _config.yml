@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "LQL"
+title                    : "About me"
 title_separator          : "-"
-name                     : &name "Qing-Long Lu"
+name                     : &name "Qing-Long Lu (卢庆龙)"
 description              : &description "Ph.D. student at Technical University of Munich"
 url                      : https://laststriker11.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
