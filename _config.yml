@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : "About me"
 title_separator          : "-"
-name                     : &name "Qing-Long Lu"
-description              : &description "Ph.D. student at Technical University of Munich"
-url                      : https://laststriker11.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Jing GAO"
+description              : &description "Ph.D. candidate at Hong Kong University of Science and Technology"
+url                      : https://gaoj26.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "LastStriker11/laststriker11.github.io"
+repository               : "gaoj26/Jing-GAO.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Qing-Long Lu(卢庆龙)"
+  name             : "Jing GAO(高晶)"
   avatar           : "profile.png"
   bio              : "A student"
-  location         : "Munich, Germany"
+  location         : "Hong Kong SAR, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=2x6zAnQAAAAJ&hl=en"
-  email            : "qinglong.lu@tum.de"
+  email            : "jgaoax@connect.ust.hk"
   researchgate     : "https://www.researchgate.net/profile/Qing-Long-Lu"
   uri              :
   bitbucket        :
